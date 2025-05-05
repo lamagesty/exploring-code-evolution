@@ -76,11 +76,11 @@ Em seguida, adicione o arquivo gerado `index.html` no seu fork.
 
 Por fim, responda as questões abaixo no seu `fork`: 
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
+1. Repositório selecionado: https://github.com/Significant-Gravitas/AutoGPT
 
-2. Gráfico selecionado: <NOME_DO_GRAFICO_SELECIONADO_AQUI>
+2. Gráfico selecionado: Lines of Code (LOC)
   
-3. Explicação: <EXPLICACAO_AQUI>
+3. Explicação: Analisei o gráfico de evolução de linhas de código (LOC) do repositório AutoGPT entre 2023 e 2025. O projeto teve um crescimento rápido em 2023, atingindo cerca de 37 mil linhas de código, o que reflete a fase inicial de desenvolvimento acelerado. Em 2024, o crescimento continuou, mas num ritmo mais moderado, sugerindo que a equipe passou a focar em melhorias e estabilização do código. Até 2025, o número de linhas subiu para cerca de 55 mil, mostrando que o projeto continua ativo, mas já numa fase mais madura. Essa evolução está de acordo com boas práticas: expansão inicial forte e uma desaceleração progressiva, o que ajuda a evitar o acúmulo excessivo de código e facilita a manutenção a longo prazo.
 
 
 
